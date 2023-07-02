@@ -121,7 +121,7 @@ export declare enum RecorderProperties {
     Play = "play",
     Replay = "replay",
     FastForward = "ff",
-    Rewind = "req",
+    Rewind = "rew",
     GoTo = "goto",
     A1 = "A1",
     A2 = "A2",
